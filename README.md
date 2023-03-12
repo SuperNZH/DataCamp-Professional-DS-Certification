@@ -1,9 +1,13 @@
 # DataCamp-Professional-DS-Certification
 This repository holds all of the work related to the practical test of the certification
 
+The certification test has 2 parts:
+1. Timed Exam DS202: This exam assesses programming and modeling skills in R or Python, and data management skills using SQL
+2. Practical Exam DS601P: Analyze a dataset in either R or Python and submit findings to present to one of DataCamp experts
+
 # 📝 Task List
 
-The written report should include both code, output and written text summaries of the following:
+The written report should include both code, output and written text summaries of the following:Cancel changes
 - Data Validation:   
   - Describe validation and cleaning steps for every column in the data 
 - Exploratory Analysis:  
